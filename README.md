@@ -11,15 +11,15 @@ I'm Ojaswani, a passionate Web Developer. Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
--Languages: C, C++,HTML5, CSS3, JavaScript (ES6), R
--Frameworks: Express.js, BootStrap5 
--Libraries: Pandas, Numpy, MatplotLib, NPM
--Tools & Technologies: React.js, Node.js,  Linux CLI, Tableau, Nodemon, EJS
--Software: CISCO Packet Tracer, MATLAB, VSCode, Arduino, AutoCAD, Eagle
--APIs: RESTful API, jQuery
--Database Management: Oracle LiveSQL, MongoDb
--Version Control:  Git, Github
--Coursework: DSA, DBMS, OOPS(C++), Machine Learning, AI, Network Programming, Data Science, Operating System
+- Languages: C, C++,HTML5, CSS3, JavaScript (ES6), R
+- Frameworks: Express.js, BootStrap5 
+- Libraries: Pandas, Numpy, MatplotLib, NPM
+- Tools & Technologies: React.js, Node.js,  Linux CLI, Tableau, Nodemon, EJS
+- Software: CISCO Packet Tracer, MATLAB, VSCode, Arduino, AutoCAD, Eagle
+- APIs: RESTful API, jQuery
+- Database Management: Oracle LiveSQL, MongoDb
+- Version Control:  Git, Github
+- Coursework: DSA, DBMS, OOPS(C++), Machine Learning, AI, Network Programming, Data Science, Operating System
 
 ## 🌐 Connect with Me
 
