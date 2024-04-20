@@ -21,8 +21,7 @@ I'm Ojaswani, a passionate Web Developer. Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]in/ojaswani-109978230
-- [Personal Website/Blog]ojaswani.netlify.app
+- https://www.linkedin.com/in/ojaswani-109978230/
 
 ## 📈 GitHub Stats
 
