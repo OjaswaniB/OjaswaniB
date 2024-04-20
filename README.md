@@ -4,9 +4,7 @@ I'm Ojaswani, a passionate Web Developer. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on  Machine Learning.
-- 🌱 I’m currently learning React.
-- 💬 Ask me about Web Dev, Graphic Designing.
+- 💬 Ask me about Web Dev, Graphic Designing, Machine Learning.
 - 😄 Pronouns: She/her
 
 ## 🛠️ Tech Stack
