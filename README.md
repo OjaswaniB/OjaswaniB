@@ -27,7 +27,7 @@
  </p>
 <br>
 <h3>Connect With Me</h3>
-<br>
+
 <p align="center">
   <a href="mailto:ojaswani6@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/ojaswani-109978230/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
