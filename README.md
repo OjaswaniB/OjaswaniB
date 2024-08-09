@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/0609b028-5ec1-43f0-b535-dd2d20c12320" alt="Simple Black and White Text Instagram Post">
+    <img src="https://github.com/user-attachments/assets/5d91c677-86e9-420c-83a8-943449e8e01f" alt="intro">
 </div>
