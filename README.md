@@ -2,8 +2,9 @@
 
 <h3 align="center">ML/AI | MERN Developer | Graphic Designer</h3>
  <br>
- <img align="center" alt="Coding" 
-             src="https://github.com/user-attachments/assets/9c05aaf9-e0a0-41a0-8cfb-04e37784339a">
+ <center> <img align="center" alt="Coding" 
+             src="https://github.com/user-attachments/assets/9c05aaf9-e0a0-41a0-8cfb-04e37784339a"></center>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
